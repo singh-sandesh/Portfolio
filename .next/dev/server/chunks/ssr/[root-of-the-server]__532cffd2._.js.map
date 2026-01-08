@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///S:/portfolio/app/page.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nexport default function Home() {\r\n  return (\r\n    <div className=\"min-h-screen\">\r\n      <h1 className=\"text-4xl font-bold text-center py-8\">Portfolio</h1>\r\n      <p className=\"text-center text-gray-600\">Your portfolio website is running!</p>\r\n    </div>\r\n  )\r\n}\r\n"],"names":[],"mappings":";;;;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;;0BACb,8OAAC;gBAAG,WAAU;0BAAsC;;;;;;0BACpD,8OAAC;gBAAE,WAAU;0BAA4B;;;;;;;;;;;;AAG/C"}}]
+}
